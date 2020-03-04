@@ -1,5 +1,6 @@
 import React from 'react';
-import Button from "@lskjs/button";
+import Button from '@lskjs/button';
+import Form from './Form';
 import logo from './logo.svg';
 import './App.css';
 
@@ -20,6 +21,13 @@ function App() {
         >
           Learn React
         </Button>
+        <div style={{ padding: 12, width: 300, background: 'white' }}>
+          <Form
+            onSubmit={(values) => {
+              alert(JSON.stringify(values, null, 2));
+            }}
+          />
+        </div>
       </header>
     </div>
   );
