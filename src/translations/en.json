@@ -1,0 +1,6 @@
+{
+  "helloWorld": "Hello world",
+  "button": {
+    "changeLanguage": "Change language"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "helloWorld": "Привет мир",
+  "button": {
+    "changeLanguage": "Сменить язык"
+  }
+}

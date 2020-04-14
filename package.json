@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@lskjs/build-locales": "^1.17.1",
     "@lskjs/button": "1.1.29",
     "@lskjs/form": "^1.1.32",
     "@lskjs/i18": "^1.0.47",
