@@ -5,6 +5,7 @@
   "dependencies": {
     "@lskjs/button": "1.1.29",
     "@lskjs/form": "^1.1.32",
+    "@lskjs/i18": "^1.0.47",
     "@lskjs/scroll": "^1.1.30",
     "@lskjs/ui": "^1.1.32",
     "@testing-library/jest-dom": "^4.2.4",
@@ -13,6 +14,8 @@
     "antd": "^4.0.1",
     "formik": "^2.1.4",
     "lodash": "^4.17.15",
+    "mobx": "^5.15.4",
+    "mobx-react": "^6.2.2",
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
     "react-icons2": "^2.5.0",
